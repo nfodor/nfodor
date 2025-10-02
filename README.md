@@ -18,7 +18,7 @@ My work has been featured in *The New York Times* and *MIT Technology Review* an
 ## 🏆 Key Pioneering Achievements
 - **Datawave / Comsurfer (1992)** – Among the world's first Internet software companies; launched Comsurfer (later SetNet Proxy Mail) enabling Internet email on PC networks with fax modems. [SetNet Archive (1997)](https://web.archive.org/web/19970102205028/http://www.setnet.com/)
 - **GraphTools** – First client-server development tool for Macintosh, with visual design + C code generation; adopted at CERN.
-- **SQLTools (1993)** – First Windows database administration tool ever created (for any database), built for Sybase SQL Server before Microsoft's acquisition. Oracle and other vendors were still Unix-only with no native Windows tools.
+- **SQLTools (1993)** – First Windows database administration tool ever created (for any database), built for Sybase SQL Server before Microsoft's acquisition. Sold as shareware on CompuServe when Oracle and other vendors were still Unix-only with no native Windows tools.
 - **Carrier Mobile Email (1995)** – Invented the first carrier-grade mobile app using text-to-speech to access and reply to Internet email by phone.
 - **Freedom Pix (2008)** – First SMS-alternative messaging app on iOS, introducing cross-device picture sharing and direct-to-number messaging (concepts later popularized by WhatsApp).
 - **PubNub / Clubhouse (2020)** – Scaled PubNub's infrastructure for Clubhouse's hypergrowth and launched GitHub Components strategy during COVID live-event boom.

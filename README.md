@@ -27,11 +27,15 @@ My work has been featured in *The New York Times* and *MIT Technology Review* an
 ---
 
 ## 🛠️ Tech Stack
-- **Languages & Frameworks:** Node.js, React, Java, Objective-C, Swift
-- **Mobile:** iOS (Objective-C/Swift), React Native
-- **Cloud & Infra:** AWS, Google Cloud, Azure, Docker, Kubernetes, Terraform, CI/CD
-- **Databases:** SQL, Postgres, MySQL, Redis
-- **Other:** LXC/LXD, distributed systems, microservices, SaaS architecture
+- **Languages & Frameworks:** Node.js, React, Vite, Java, Objective-C, Swift, C, JavaScript, Express
+- **Mobile:** iOS (Objective-C/Swift), React Native, OCR integration
+- **Cloud & Infra:** AWS, Google Cloud, Azure, Digital Ocean, Docker, Docker Compose, Kubernetes, Terraform, CI/CD, PM2, systemd, WireGuard VPN
+- **Databases:** MongoDB (Atlas/Digital Ocean), PostgreSQL, Redis, MySQL, SQL Server (Sybase)
+- **Reverse Proxy & Networking:** Custom Node.js reverse proxy with TLS termination, SNI routing, DNS server, Let's Encrypt integration, certificate management
+- **Authentication:** Keycloak OIDC, JWT, OAuth2, multi-tenant auth systems
+- **DevOps:** GitLab CI/CD, deployment tokens, LXC/LXD containerization, automated provisioning
+- **Real-time Systems:** SSE (Server-Sent Events), WebSockets, distributed logging, PubNub
+- **Other:** Microservices architecture, SaaS platforms, decentralized cloud systems, plugin architectures, REST APIs
 
 ---
 

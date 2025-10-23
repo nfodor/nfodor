@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nicolas Fodor
 
-🚀 **Technology Pioneer | Engineer | Architect | Founder**
+🚀 **Technology Pioneer | Software Developer | Architect | Founder**
 
 I've spent 20+ years at the intersection of **Internet, mobile, and cloud innovation** — from building one of the world's first Internet software companies in 1992 to designing modern decentralized cloud platforms today.
 

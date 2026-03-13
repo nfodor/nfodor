@@ -29,7 +29,7 @@ I'm still building.
 **What I'm building now:**
 - [**SETIP.IO**](https://setip.io) — The platform everything else runs on. DNS, routing, certs, WAF, DDoS protection in one JSON config. 150+ REST endpoints. LXC isolation, WireGuard tunnels, MCP interface for AI agents. I built it because the cloud taught me the wrong lesson — concentration makes things fragile. The internet was designed for independence and resilience, not for handing everything to three vendors. SETIP.IO is how I run my own infrastructure the way the internet was meant to work: distributed, sovereign, and under my control
 - [**Driver.House**](https://driver.house) — Zero-commission rideshare platform. 11,000+ rides completed. AI-powered, direct booking with professional drivers
-- [**NumFree**](https://numfree.me) — Free virtual phone numbers. Privacy-first, no SIM required
+- [**NumFree**](https://numfree.com) — Free virtual phone numbers. Privacy-first, no SIM required
 - [**UrlyUp**](https://urlyup.com) — Instant public HTTPS URLs for localhost. WireGuard-encrypted tunnels, zero config
 - [**The Saga**](https://thesaga.fodor.app) — Open-source investigation into the SetNet litigation. 77 sources, AI-powered search across 3 continents, 5 languages
 

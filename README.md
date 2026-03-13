@@ -4,7 +4,7 @@
 
 In 1989, I started building software tools for CERN — the lab that invented the Web. In 1992, I published one of the first internet software companies in the world. In 1995, I invented carrier-grade mobile email — the first app that let you access and reply to internet email from any phone, anywhere, using voice. I opened commercial internet in Brazil with the owner of TV Bandeirantes. I put the largest classified ads newspaper in the country online before Craigslist left San Francisco.
 
-By 2001, my technology was running inside SFR — France's second-largest mobile carrier — serving 15 million subscribers through a platform distributed by Hewlett-Packard. SFR generated €1.653 billion in revenue on it. They paid €525,000.
+By 2001, my technology was running inside SFR — France's second-largest mobile carrier — serving 15 million subscribers through a platform I created and sold originally on my own to mobile operators and, as we grew, got distributed by Hewlett-Packard. SFR generated €1.653 billion in revenue on it. They paid €525,000.
 
 When I sued, my own US law firm turned out to represent HP. My French law firm turned out to represent Vivendi — SFR's parent. Two of the world's largest firms, on two continents, both conflicted toward the defendants. Sworn testimony from SFR's own engineer — proving they fabricated their user counts — vanished from the French courts' electronic filing system 48 hours before Vivendi announced the €17 billion sale of SFR.
 

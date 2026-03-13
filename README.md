@@ -1,49 +1,50 @@
-# 👋 Hi, I'm Nicolas Fodor
+# Nicolas Fodor
 
-🚀 **Technology Pioneer | Software Developer | Architect | Founder**
+**Builder. Inventor. 30 years of not quitting.**
 
-I've spent 20+ years at the intersection of **Internet, mobile, and cloud innovation** — from building one of the world's first Internet software companies in 1992 to designing modern decentralized cloud platforms today.
+In 1989, I started building software tools for CERN — the lab that invented the Web. In 1992, I published one of the first internet software companies in the world. In 1995, I invented carrier-grade mobile email — the first app that let you access and reply to internet email from any phone, anywhere, using voice. I opened commercial internet in Brazil with the owner of TV Bandeirantes. I put the largest classified ads newspaper in the country online before Craigslist left San Francisco.
 
-My work has been featured in *The New York Times* and *MIT Technology Review* and includes multiple **"firsts"** in technology history — Internet email on PC networks, the first client-server tool for Macintosh, the first Windows DB admin tool for Sybase SQL Server, the first carrier-grade mobile app, and the first SMS-alternative messaging app on iOS.
+By 2001, my technology was running inside SFR — France's second-largest mobile carrier — serving 15 million subscribers through a platform distributed by Hewlett-Packard. SFR generated €1.653 billion in revenue on it. They paid €525,000.
 
----
+When I sued, my own US law firm turned out to represent HP. My French law firm turned out to represent Vivendi — SFR's parent. Two of the world's largest firms, on two continents, both conflicted toward the defendants. Sworn testimony from SFR's own engineer — proving they fabricated their user counts — vanished from the French courts' electronic filing system 48 hours before Vivendi announced the €17 billion sale of SFR.
 
-## 🔭 Current Focus
-- **Founder & Lead Architect at [SETIP.IO](https://setip.io/)** – Building a decentralized cloud execution platform that delivers scalable, cost-efficient alternatives to traditional vendors.
-- **Consulting & Architecture** – Helping companies scale SaaS, cloud, and real-time platforms (like I did at PubNub for Clubhouse).
-- Exploring **emerging tech** through hands-on consulting and prototyping roles to keep learning and building in the real world.
+I documented the entire trail: [**thesaga.fodor.app**](https://thesaga.fodor.app) — 77 sources, 30 years, five languages.
 
----
-
-## 🏆 Key Pioneering Achievements
-- **Datawave / Comsurfer (1992)** – Among the world's first Internet software companies; launched Comsurfer (later SetNet Proxy Mail) enabling Internet email on PC networks with fax modems. [SetNet Archive (1997)](https://web.archive.org/web/19970102205028/http://www.setnet.com/)
-- **GraphTools** – First client-server development tool for Macintosh, with visual design + C code generation; adopted at CERN.
-- **SQLTools (1993)** – First Windows database administration tool ever created (for any database), built for Sybase SQL Server before Microsoft's acquisition. Sold as shareware on CompuServe when Oracle and other vendors were still Unix-only with no native Windows tools.
-- **Carrier Mobile Email (1995)** – Invented the first carrier-grade mobile app using text-to-speech to access and reply to Internet email by phone.
-- **Freedom Pix (2008)** – First SMS-alternative messaging app on iOS, introducing cross-device picture sharing and direct-to-number messaging (concepts later popularized by WhatsApp).
-- **PubNub / Clubhouse (2020)** – Scaled PubNub's infrastructure for Clubhouse's hypergrowth and launched GitHub Components strategy during COVID live-event boom.
-- **SETIP.IO (Present)** – Decentralized cloud execution platform providing scalable, resilient, and cost-efficient services.
+I'm still building.
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages & Frameworks:** Node.js, React, Vite, Java, Objective-C, Swift, C, JavaScript, Express
-- **Mobile:** iOS (Objective-C/Swift), React Native, OCR integration
-- **Cloud & Infra:** AWS, Google Cloud, Azure, Digital Ocean, Docker, Docker Compose, Kubernetes, Terraform, CI/CD, PM2, systemd, WireGuard VPN
-- **Databases:** MongoDB (Atlas/Digital Ocean), PostgreSQL, Redis, MySQL, SQL Server (Sybase)
-- **Reverse Proxy & Networking:** Custom Node.js reverse proxy with TLS termination, SNI routing, DNS server, Let's Encrypt integration, certificate management
-- **Authentication:** Keycloak OIDC, JWT, OAuth2, multi-tenant auth systems
-- **DevOps:** GitLab CI/CD, deployment tokens, LXC/LXD containerization, automated provisioning
-- **Real-time Systems:** SSE (Server-Sent Events), WebSockets, distributed logging, PubNub
-- **Other:** Microservices architecture, SaaS platforms, decentralized cloud systems, plugin architectures, REST APIs
+## What I've Built
+
+**Firsts in technology history:**
+- **CommSurfer / Datawave (1992)** — One of the first internet software companies. Email on PC networks with fax modems. [Archive (1997)](https://web.archive.org/web/19970102205028/http://www.setnet.com/)
+- **GraphTools** — First client-server dev tool for Mac, with visual design + C codegen. Client: CERN (1989-90)
+- **SQLTools (1993)** — First Windows database admin tool ever created (for any database), for Sybase SQL Server. Shareware on CompuServe when Oracle was still Unix-only
+- **SetNet Mail (1995)** — First carrier-grade mobile app: email by voice over phone. Powered ZAZ — the largest ISP in the world at the time — 400K users across Brazil
+- **VoxMail / WapMail (1999-2001)** — Mobile email platform deployed at SFR, Belgacom, Vodafone Live. First color-screen mobile email. First browser-based email client on a mobile phone
+- **Primeiramão Online (1995)** — Brazil's first and largest classifieds website (50K listings), months before Craigslist expanded
+- **Freedom Pix (2008)** — First SMS-alternative messaging app on iOS. Cross-device picture sharing, direct-to-number messaging — concepts WhatsApp later popularized
+- **PubNub / Clubhouse (2020)** — Scaled real-time infrastructure for Clubhouse's hypergrowth during COVID
+
+**What I'm building now:**
+- [**SETIP.IO**](https://setip.io) — PaaS infrastructure platform. DNS, routing, certs, WAF, DDoS protection in one JSON config. 150+ REST endpoints. LXC isolation, WireGuard tunnels, MCP interface for AI agents
+- [**Driver.House**](https://driver.house) — Zero-commission rideshare platform. 11,000+ rides completed. AI-powered, direct booking with professional drivers
+- [**UrlyUp**](https://urlyup.com) — Instant public HTTPS URLs for localhost. WireGuard-encrypted tunnels, zero config
+- [**The Saga**](https://thesaga.fodor.app) — Open-source investigation into the SetNet litigation. 77 sources, AI-powered search across 3 continents, 5 languages
 
 ---
 
-## 📫 How to Reach Me
-- LinkedIn: [linkedin.com/in/nicolasfodor](https://www.linkedin.com/in/nicolasfodor)
-- GitHub: [github.com/nfodor](https://github.com/nfodor)
-- Email: nfodor@gmail.com
+## Stack
+
+Full-stack architect across infrastructure, backend, frontend, mobile, and real-time systems. 30+ years shipping production software — from bare-metal servers and custom reverse proxies to cloud platforms, carrier-grade telecom, and AI-integrated applications.
 
 ---
 
-✨ Thanks for visiting my profile — always open to opportunities where technology can make a big impact.
+## Contact
+
+- [linkedin.com/in/nicolasfodor](https://www.linkedin.com/in/nicolasfodor)
+- [github.com/nfodor](https://github.com/nfodor)
+
+---
+
+*Every technologist who builds something that matters needs to be ready to fight not just in code, but in courtrooms, boardrooms, and across borders — because the moment your invention becomes infrastructure, the battle moves to territories you never planned for.*
